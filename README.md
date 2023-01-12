@@ -1,3 +1,3 @@
 A collection of scripts
 
-1. [Repository Bundler](bundle_repo.sh): Bundles a repository fully or incrementally based on conditions in order to safely transfer to cloud-based storage folder. This script can be scheduled each day to save repository changes without pushing to GitHub.
+1. [Repository Bundler](bundle_repo.sh): Bundles a repository fully or incrementally based on conditions in order to safely transfer to cloud-based storage folder.

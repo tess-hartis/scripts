@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-FULL_BUNDLE="C:/Users/hartte02/OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc/full.bundle"
-INCREMENTAL_BUNDLE="C:/Users/hartte02/OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc/incremental.bundle"
+FULL_BUNDLE="../full.bundle"
+INCREMENTAL_BUNDLE="../incremental.bundle"
 MOST_RECENT_COMMIT=$(git rev-parse HEAD 2>&1)
 
 
